@@ -1,0 +1,115 @@
+{
+  "id": 1897332829,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-02-11",
+    "date:cessation_upper": "2024-02-11",
+    "date:inception_lower": "2024-02-11",
+    "date:inception_upper": "2024-02-11",
+    "edtf:cessation": "2024-02-11T00:40:12-08:00",
+    "edtf:inception": "2024-02-11T00:40:12-08:00",
+    "flysfo:occupancy": {
+      "free_spaces": 2066,
+      "garage_uuid": "0caffc44-5056-11e7-b114-b2f933d5fe66",
+      "levels": [
+        {
+          "free_spaces": 574,
+          "level": "Floor 1",
+          "occupied_spaces": 429,
+          "percent_occupied": 42,
+          "status": "Free",
+          "total_spaces": 1003
+        },
+        {
+          "free_spaces": 879,
+          "level": "Floor 2",
+          "occupied_spaces": 575,
+          "percent_occupied": 39,
+          "status": "Free",
+          "total_spaces": 1454
+        },
+        {
+          "free_spaces": 209,
+          "level": "Floor 3",
+          "occupied_spaces": 1254,
+          "percent_occupied": 85,
+          "status": "Free",
+          "total_spaces": 1463
+        },
+        {
+          "free_spaces": 271,
+          "level": "Floor 4",
+          "occupied_spaces": 700,
+          "percent_occupied": 72,
+          "status": "Free",
+          "total_spaces": 971
+        },
+        {
+          "free_spaces": 459,
+          "level": "Floor 5",
+          "occupied_spaces": 150,
+          "percent_occupied": 24,
+          "status": "Free",
+          "total_spaces": 609
+        }
+      ],
+      "occupied_spaces": 2825,
+      "percent_occupied": 57.76,
+      "status": "Free",
+      "total_spaces": 4891,
+      "updated_at": "2024-02-11T00:40:12.666-0800"
+    },
+    "flysfo:uuid": "0caffc44-5056-11e7-b114-b2f933d5fe66",
+    "geom:area": 0,
+    "geom:bbox": "-122.386047,37.616332,-122.386047,37.616332",
+    "geom:latitude": 37.61633168851597,
+    "geom:longitude": -122.38604737802953,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "occupancy",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1360665043
+    ],
+    "wof:country": "US",
+    "wof:created": 1707640960,
+    "wof:geomhash": "70359f50e5be0d6d9744a0adcfd554ac",
+    "wof:hierarchy": [
+      {
+        "[\"occupancy\"]_id": 1897332829,
+        "building_id": -1,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1360665043
+      }
+    ],
+    "wof:id": 1897332829,
+    "wof:lastmodified": 1707640960,
+    "wof:name": "Occupancy for Central Parking Garage (Sun, 11 Feb 2024 00:40:12 -0800)",
+    "wof:parent_id": 1360665043,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "occupancy"
+    ],
+    "wof:repo": "sfomuseum-data-garages-2024",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38604737802953,
+    37.61633168851597,
+    -122.38604737802953,
+    37.61633168851597
+  ],
+  "geometry": {"coordinates":[[-122.38604737802953,37.61633168851597]],"type":"MultiPoint"}
+}
