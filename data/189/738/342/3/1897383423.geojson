@@ -1,0 +1,149 @@
+{
+  "id": 1897383423,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-02-17",
+    "date:cessation_upper": "2024-02-17",
+    "date:inception_lower": "2024-02-17",
+    "date:inception_upper": "2024-02-17",
+    "edtf:cessation": "2024-02-16T19:55:03-08:00",
+    "edtf:inception": "2024-02-16T19:55:03-08:00",
+    "flysfo:occupancy": {
+      "free_spaces": 883,
+      "garage_uuid": "602bf723-c67b-4656-91c4-6172aa24633d",
+      "levels": [
+        {
+          "free_spaces": 169,
+          "level": "Floor 1",
+          "occupied_spaces": 121,
+          "percent_occupied": 41,
+          "status": "Free",
+          "total_spaces": 290
+        },
+        {
+          "free_spaces": 62,
+          "level": "Floor 2",
+          "occupied_spaces": 398,
+          "percent_occupied": 86,
+          "status": "Free",
+          "total_spaces": 460
+        },
+        {
+          "free_spaces": 419,
+          "level": "Floor 3",
+          "occupied_spaces": 37,
+          "percent_occupied": 8,
+          "status": "Free",
+          "total_spaces": 456
+        },
+        {
+          "free_spaces": 15,
+          "level": "Floor 4",
+          "occupied_spaces": 446,
+          "percent_occupied": 96,
+          "status": "Free",
+          "total_spaces": 461
+        },
+        {
+          "free_spaces": 372,
+          "level": "Floor 5",
+          "occupied_spaces": 53,
+          "percent_occupied": 12,
+          "status": "Free",
+          "total_spaces": 425
+        },
+        {
+          "free_spaces": 14,
+          "level": "Floor 6",
+          "occupied_spaces": 444,
+          "percent_occupied": 96,
+          "status": "Free",
+          "total_spaces": 458
+        },
+        {
+          "free_spaces": 220,
+          "level": "Floor 7",
+          "occupied_spaces": 260,
+          "percent_occupied": 54,
+          "status": "Free",
+          "total_spaces": 480
+        },
+        {
+          "free_spaces": 388,
+          "level": "Parking Cheque in",
+          "occupied_spaces": 3212,
+          "percent_occupied": 89,
+          "status": "Free",
+          "total_spaces": 3600
+        }
+      ],
+      "occupied_spaces": 5747,
+      "percent_occupied": 86.68,
+      "status": "Free",
+      "total_spaces": 6630,
+      "updated_at": "2024-02-16T19:55:03.795-0800"
+    },
+    "flysfo:uuid": "602bf723-c67b-4656-91c4-6172aa24633d",
+    "geom:area": 0,
+    "geom:bbox": "-122.400557,37.636645,-122.400557,37.636645",
+    "geom:latitude": 37.63664496560329,
+    "geom:longitude": -122.40055701727195,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "occupancy",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1477855983,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1708142272,
+    "wof:geomhash": "9fa98542430756c463e02e7491579736",
+    "wof:hierarchy": [
+      {
+        "[\"occupancy\"]_id": 1897383423,
+        "building_id": 1477855983,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "[\"occupancy\"]_id": 1897383423,
+        "building_id": 1477855983,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1897383423,
+    "wof:lastmodified": 1708142272,
+    "wof:name": "Occupancy for Long-Term Parking Garage 1 (Fri, 16 Feb 2024 19:55:03 -0800)",
+    "wof:parent_id": 1477855983,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "occupancy"
+    ],
+    "wof:repo": "sfomuseum-data-garages-2024",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.40055701727195,
+    37.63664496560329,
+    -122.40055701727195,
+    37.63664496560329
+  ],
+  "geometry": {"coordinates":[[-122.40055701727195,37.63664496560329]],"type":"MultiPoint"}
+}
