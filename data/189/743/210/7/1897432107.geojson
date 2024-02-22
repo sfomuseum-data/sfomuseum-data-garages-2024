@@ -1,0 +1,157 @@
+{
+  "id": 1897432107,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-02-22",
+    "date:cessation_upper": "2024-02-22",
+    "date:inception_lower": "2024-02-22",
+    "date:inception_upper": "2024-02-22",
+    "edtf:cessation": "2024-02-22T12:40:10-08:00",
+    "edtf:inception": "2024-02-22T12:40:10-08:00",
+    "flysfo:occupancy": {
+      "free_spaces": 410,
+      "garage_uuid": "fccae62c-e7ef-4510-9ad9-b88c5020606f",
+      "levels": [
+        {
+          "free_spaces": 29,
+          "level": "Floor 1",
+          "occupied_spaces": 150,
+          "percent_occupied": 83,
+          "status": "Free",
+          "total_spaces": 179
+        },
+        {
+          "free_spaces": -1,
+          "level": "Floor 2",
+          "occupied_spaces": 201,
+          "percent_occupied": 100,
+          "status": "Occupied",
+          "total_spaces": 200
+        },
+        {
+          "free_spaces": 14,
+          "level": "Floor 3",
+          "occupied_spaces": 160,
+          "percent_occupied": 91,
+          "status": "Free",
+          "total_spaces": 174
+        },
+        {
+          "free_spaces": 44,
+          "level": "Floor 4",
+          "occupied_spaces": 184,
+          "percent_occupied": 80,
+          "status": "Free",
+          "total_spaces": 228
+        },
+        {
+          "free_spaces": 8,
+          "level": "Floor 5",
+          "occupied_spaces": 187,
+          "percent_occupied": 95,
+          "status": "Free",
+          "total_spaces": 195
+        },
+        {
+          "free_spaces": 40,
+          "level": "Floor 6",
+          "occupied_spaces": 103,
+          "percent_occupied": 72,
+          "status": "Free",
+          "total_spaces": 143
+        },
+        {
+          "free_spaces": 24,
+          "level": "Floor 7",
+          "occupied_spaces": 91,
+          "percent_occupied": 79,
+          "status": "Free",
+          "total_spaces": 115
+        },
+        {
+          "free_spaces": 73,
+          "level": "Floor 8",
+          "occupied_spaces": 124,
+          "percent_occupied": 62,
+          "status": "Free",
+          "total_spaces": 197
+        },
+        {
+          "free_spaces": 220,
+          "level": "Floor 9",
+          "occupied_spaces": 6,
+          "percent_occupied": 2,
+          "status": "Free",
+          "total_spaces": 226
+        }
+      ],
+      "occupied_spaces": 1247,
+      "percent_occupied": 75.26,
+      "status": "Free",
+      "total_spaces": 1657,
+      "updated_at": "2024-02-22T12:40:10.558-0800"
+    },
+    "flysfo:uuid": "fccae62c-e7ef-4510-9ad9-b88c5020606f",
+    "geom:area": 0,
+    "geom:bbox": "-122.391693,37.614027,-122.391693,37.614027",
+    "geom:latitude": 37.61402684259701,
+    "geom:longitude": -122.39169290238829,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "occupancy",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1477855967,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1708634581,
+    "wof:geomhash": "bd2907497fed53f770e0bdb5ae70a1ef",
+    "wof:hierarchy": [
+      {
+        "[\"occupancy\"]_id": 1897432107,
+        "building_id": 1477855967,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "[\"occupancy\"]_id": 1897432107,
+        "building_id": 1477855967,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1897432107,
+    "wof:lastmodified": 1708634581,
+    "wof:name": "Occupancy for Garage A (Thu, 22 Feb 2024 12:40:10 -0800)",
+    "wof:parent_id": 1477855967,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "occupancy"
+    ],
+    "wof:repo": "sfomuseum-data-garages-2024",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.39169290238829,
+    37.61402684259701,
+    -122.39169290238829,
+    37.61402684259701
+  ],
+  "geometry": {"coordinates":[[-122.39169290238829,37.61402684259701]],"type":"MultiPoint"}
+}
